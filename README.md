@@ -11,6 +11,7 @@ Add New Customer
 
 
 Edit Customer
+![edit](https://user-images.githubusercontent.com/76586777/139641278-e0db5d11-d815-4795-8177-8da6179a439f.PNG)
 
 
 Delete Customer
