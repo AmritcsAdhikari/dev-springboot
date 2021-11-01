@@ -8,9 +8,8 @@ import com.test.springboot.thymeleafdemo.entity.Customer;
 
 public interface CustomerRepository extends JpaRepository<Customer, Integer> {
 	
-	//there's no need to write implementation class
-	//we get all the crud methods for free
-	//----------good thing about spring-data-jpa-------------
+	
+	//This is all we need here
 	
 	public List<Customer> findAllByOrderByLastNameAsc();
 	
